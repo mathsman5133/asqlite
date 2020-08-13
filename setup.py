@@ -9,7 +9,7 @@ setup(
     name="asqlite",
     author="Rapptz",
     url="https://github.com/Rapptz/asqlite",
-    py_modules=["asqlite"]
+    py_modules=["asqlite"],
     license="MIT",
     description="A simple async wrapper for sqlite3",
     long_description=readme,
